@@ -8,7 +8,17 @@
   display: none; }
 
 .right.rail > .ui.article > .ui.grid > .row.article-body > aside.column {
-  display: block; }
+  display: none; }
+
+.ui.stackable.container {
+  margin: auto !important; }
+
+.ui.stackable.grid > .row > .wide.column {
+  padding: 0em 0 !important;
+  margin: 0 !important; }
+
+.ui.right.floated.button a {
+  color: #ffffff; }
 
 p {
   font-size: 1rem;
@@ -24,17 +34,18 @@ p {
 
 @media only screen and (min-width: 1200px) {
   .right.rail {
-    left: 815px !important;
-    width: 250px !important; } }
+    display: none; } }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .right.rail {
-    left: 685px !important;
-    width: 215px !important; } }
+    display: none; }
+
+  .ui.grid > .row > section.wide.column {
+    width: 100% !important; } }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .right.rail {
     display: none; }
 
-  .ui.grid > .row > section.twelve.wide.column {
+  .ui.grid > .row > section.wide.column {
     width: 100% !important; } }
 @media only screen and (max-width: 767px) {
   .right.rail {
