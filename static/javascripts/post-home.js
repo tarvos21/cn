@@ -4,7 +4,7 @@ $(document).ready(function() {
   $('.centered.column > .ui.raised.segment')
     .hover(
         function() {
-          $(this).addClass('black inverted bigger');
+          $(this).addClass('bigger');
           $('.sub.header').addClass('ui grey');
           $("<div class='ui right floated basic segment'><i class='huge inverted yellow angle right icon'></i></div>").insertAfter($(this).find('h1.ui.header'));
         },

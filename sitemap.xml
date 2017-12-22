@@ -1,291 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://dubing.me/CNAME</loc>
+    <loc>http://duxiaoqing.com/CNAME</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/about/</loc>
+    <loc>http://duxiaoqing.com/about/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/archive/</loc>
+    <loc>http://duxiaoqing.com/archive/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/blog/2017-06-05-Start/</loc>
+    <loc>http://duxiaoqing.com/blog/2017-06-05-Start/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/blog/LICENSE</loc>
+    <loc>http://duxiaoqing.com/categories/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/blog/</loc>
+    <loc>http://duxiaoqing.com/humans.txt</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/categories/</loc>
+    <loc>http://duxiaoqing.com/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/humans.txt</loc>
+    <loc>http://duxiaoqing.com/.nojekyll</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/</loc>
+    <loc>http://duxiaoqing.com/random/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/.nojekyll</loc>
+    <loc>http://duxiaoqing.com/relax/CONTRIBUTING/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/random/</loc>
+    <loc>http://duxiaoqing.com/relax/LICENSE.txt</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/CONTRIBUTING/</loc>
+    <loc>http://duxiaoqing.com/relax/README/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/LICENSE.txt</loc>
+    <loc>http://duxiaoqing.com/relax/Rakefile</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/README/</loc>
+    <loc>http://duxiaoqing.com/relax/favicon.ico</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/Rakefile</loc>
+    <loc>http://duxiaoqing.com/relax/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/favicon.ico</loc>
+    <loc>http://duxiaoqing.com/relax/js/animframe_polyfill.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/</loc>
+    <loc>http://duxiaoqing.com/relax/js/application.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/animframe_polyfill.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/bind_polyfill.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/application.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/classlist_polyfill.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/bind_polyfill.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/game_manager.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/classlist_polyfill.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/grid.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/game_manager.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/html_actuator.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/grid.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/keyboard_input_manager.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/html_actuator.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/local_storage_manager.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/keyboard_input_manager.js</loc>
+    <loc>http://duxiaoqing.com/relax/js/tile.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/local_storage_manager.js</loc>
+    <loc>http://duxiaoqing.com/relax/meta/apple-touch-icon.png</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/js/tile.js</loc>
+    <loc>http://duxiaoqing.com/relax/meta/apple-touch-startup-image-640x1096.png</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/meta/apple-touch-icon.png</loc>
+    <loc>http://duxiaoqing.com/relax/meta/apple-touch-startup-image-640x920.png</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/meta/apple-touch-startup-image-640x1096.png</loc>
+    <loc>http://duxiaoqing.com/relax/style/'</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/meta/apple-touch-startup-image-640x920.png</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Bold-webfont.eot</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/'</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Bold-webfont.svg</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Bold-webfont.eot</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Bold-webfont.woff</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Bold-webfont.svg</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Light-webfont.eot</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Bold-webfont.woff</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Light-webfont.svg</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Light-webfont.eot</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Light-webfont.woff</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Light-webfont.svg</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Regular-webfont.eot</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Light-webfont.woff</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Regular-webfont.svg</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Regular-webfont.eot</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/ClearSans-Regular-webfont.woff</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Regular-webfont.svg</loc>
+    <loc>http://duxiaoqing.com/relax/style/fonts/clear-sans.css</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/ClearSans-Regular-webfont.woff</loc>
+    <loc>http://duxiaoqing.com/relax/style/helpers.scss</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/fonts/clear-sans.css</loc>
+    <loc>http://duxiaoqing.com/relax/style/main.css</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/helpers.scss</loc>
+    <loc>http://duxiaoqing.com/relax/style/main.css.map</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/main.css</loc>
+    <loc>http://duxiaoqing.com/relax/style/main.scss</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/main.css.map</loc>
+    <loc>http://duxiaoqing.com/robots.txt</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/relax/style/main.scss</loc>
+    <loc>http://duxiaoqing.com/sitemap.xml</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/robots.txt</loc>
+    <loc>http://duxiaoqing.com/tags/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/sitemap.xml</loc>
+    <loc>http://duxiaoqing.com/tweet/20170130-CS-courses/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tags/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170130-First-Tweet/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170130-CS-courses/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170202-GitHub-Card/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170130-First-Tweet/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170211-Google-Codelabs/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170202-GitHub-Card/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170217-Be-Uncomfortable/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170211-Google-Codelabs/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170217-Innovation-Is-Bullshit/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170217-Be-Uncomfortable/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170228-Ruby-on-macOS-Sierra/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170217-Innovation-Is-Bullshit/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170301-Time-Machine-on-macOS/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170228-Ruby-on-macOS-Sierra/</loc>
+    <loc>http://duxiaoqing.com/tweet/20170314-Capacity-for-Effort/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170301-Time-Machine-on-macOS/</loc>
+    <loc>http://duxiaoqing.com/tweet/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/20170314-Capacity-for-Effort/</loc>
+    <loc>http://duxiaoqing.com/type/CNAME</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/tweet/</loc>
+    <loc>http://duxiaoqing.com/type/LICENSE.txt</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/CNAME</loc>
+    <loc>http://duxiaoqing.com/type/README/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/LICENSE.txt</loc>
+    <loc>http://duxiaoqing.com/type/about.html</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/README/</loc>
+    <loc>http://duxiaoqing.com/type/complete.html</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/about.html</loc>
+    <loc>http://duxiaoqing.com/type/css/main.css</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/complete.html</loc>
+    <loc>http://duxiaoqing.com/type/</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/css/main.css</loc>
+    <loc>http://duxiaoqing.com/type/js/complete.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/</loc>
+    <loc>http://duxiaoqing.com/type/js/index.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/js/complete.js</loc>
+    <loc>http://duxiaoqing.com/type/js/languages.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/js/index.js</loc>
+    <loc>http://duxiaoqing.com/type/js/repo.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/js/languages.js</loc>
+    <loc>http://duxiaoqing.com/type/js/type.js</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/js/repo.js</loc>
+    <loc>http://duxiaoqing.com/type/repo.html</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
   <url>
-    <loc>http://dubing.me/type/js/type.js</loc>
-    <lastmod>2017-12-22</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.me/type/repo.html</loc>
-    <lastmod>2017-12-22</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.me/type/type.html</loc>
+    <loc>http://duxiaoqing.com/type/type.html</loc>
     <lastmod>2017-12-22</lastmod>
   </url>
 </urlset>
